@@ -48,7 +48,7 @@ USD/KRW rate and amounts are fictional and do NOT represent that reported pilot.
 - simulator.js: in-browser deterministic FX simulator; no external network traffic.
 - app.js: controls and syntax-highlighting source viewer.
 - source/agent_fx_demo.py: downloadable, runnable Python demonstration.
-- source/reference_deck.pptx: exact updated PowerPoint source.
+- Wall_Street_2_Agentic_FX_Classroom_Edition.pptx (repo root): the PowerPoint deck.
 - assets/slide-1.png through slide-30.png: rendered original PowerPoint slides.
 
 ## Production security caveats
