@@ -12,6 +12,6 @@
 **Advanced:** Extend the Python demo with a durable SQLite idempotency ledger, separate accepted/executed/settled states, an expiring simulated token, and tests for concurrency. Explain why this still is not a production banking system.
 
 
-## Decorators quiz and exercise
+## Decorators exercise
 
-Open `decorator_quiz.html` and answer all five questions. Then define `@audit` to log before and after a mock FX tool call. Explain why wrapping a method is not equivalent to a bank-side authorization control.
+Define `@audit` to log before and after a mock FX tool call. Explain why wrapping a method is not equivalent to a bank-side authorization control.

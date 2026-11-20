@@ -6,7 +6,7 @@
 4. Commit the files to the `main` branch.
 5. Go to **Settings → Pages**; select **Deploy from a branch**, `main`, `/ (root)`; save.
 6. Your student website should be at: `https://jimkliew.github.io/wall-street-2.0-lecture/` once Pages deploys.
-7. Students can download the `.pptx` from the website header, run the simulator, explore the Python source, and take the five-question decorator quiz.
+7. Students can download the `.pptx` from the website header, run the simulator, and explore the Python source.
 
 **Publishing status:** Published at https://github.com/jimkliew/wall-street-2.0-lecture.
 

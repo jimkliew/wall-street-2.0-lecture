@@ -83,10 +83,9 @@ python -m http.server 8000
 4. Use the Source Code tab to examine `AgentIdentity`, `Policy`, and `execute()`.
 5. Assign the exercises and ask which controls must live outside the LLM.
 
-## New: decorators lesson and quiz
+## New: decorators lesson
 
 - The **uploaded, repaired 26-slide deck** was used as the base. Two slides were inserted after the data-model slide: a decorator walkthrough and a short in-class check.
-- The website includes `decorator_quiz.html` with five graded practice questions.
 - `data.js` and all slide images were regenerated from this final 28-slide deck.
 - This is a public classroom simulation, not an authentication or payment implementation.
 
