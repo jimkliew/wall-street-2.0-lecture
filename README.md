@@ -25,7 +25,7 @@ JPMorgan allows up to USD 1,000,000 per trade and 2,000,000/day. These are
 
 ## How to publish to GitHub Pages
 
-1. Create a GitHub repository (for example `wall-street-2-agentic-fx`).
+1. Create a GitHub repository (for example `wall-street-2.0-lecture`).
 2. Upload the **contents of this folder** to the repository root, including `index.html`,
    `data.js`, `app.js`, `simulator.js`, `styles.css`, `assets/`, and `source/`.
 3. In the repository, choose **Settings → Pages → Deploy from a branch**.
@@ -39,11 +39,11 @@ git init
 git add .
 git commit -m "Classroom edition: agentic FX agents and governance"
 git branch -M main
-git remote add origin https://github.com/jimkliew/wall-street-2-agentic-fx.git
+git remote add origin https://github.com/jimkliew/wall-street-2.0-lecture.git
 git push -u origin main
 ```
 
-Create the repository `wall-street-2-agentic-fx` in the GitHub account `jimkliew` before using these commands. **Nothing has been pushed yet.**
+Create the repository `wall-street-2.0-lecture` in the GitHub account `jimkliew` before using these commands. Live at https://jimkliew.github.io/wall-street-2.0-lecture/.
 
 ## Local use
 
