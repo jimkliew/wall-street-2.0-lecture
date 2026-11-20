@@ -92,3 +92,7 @@ python -m http.server 8000
 ## Rights note
 
 The deck includes CNBC article imagery and Hyundai/JPMorgan/Johns Hopkins brand material. Check redistribution permissions before placing the repository on GitHub publicly, and replace copyrighted images if necessary.
+
+## Updating the code explorer
+
+The website's source explorer reads `source_files.js`. After editing `source/agent_fx_demo.py`, `simulator.js`, or `source/ARCHITECTURE.md`, run `python3 tools/build_sources.py` and commit the regenerated file.
